@@ -1,0 +1,42 @@
+body{
+    /* background-color: #edd9e5; */
+    background-image: url(https://7nen.net/wp-content/uploads/2019/09/2356.jpg);
+    background-size: 100%;
+}
+
+.indiv{
+    background-color: white;
+    width: 500px;
+    height: 500px;
+    padding-top: 15px;
+    padding-left: 15px;
+    margin-left: 400px;
+    border-style: outset ;
+    border-radius: 40px;
+    background-color: #f0efef;
+    
+}
+
+.floating{
+    float: left;
+    padding-right: 15px;
+
+}
+
+.heading1{
+    margin-left: 500px;
+}
+
+.heading2 {
+    margin-left: 600px;
+    font-size: 25px;
+}
+
+.rad{
+
+    border-radius: 10px;
+    border-color:black;
+    border-style: solid;
+
+
+}
